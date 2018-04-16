@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: Spring
-Implementation-Version: 1
-Built-By: domicile
-Implementation-Vendor-Id: com.concretepage
-Created-By: IntelliJ IDEA
-Build-Jdk: 1.8.0_102
-Main-Class: ${start-class}
-
